@@ -15,9 +15,9 @@ export const Container = styled.div`
     align-items: center;
   }
 
-  svg {
+  /* svg {
     margin-right: 10px;
-  }
+  } */
 `;
 
 export const Form = styled.form`
